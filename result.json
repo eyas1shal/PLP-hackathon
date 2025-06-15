@@ -1,0 +1,15 @@
+{
+  "total_drivers_required": 27,
+  "total_customers": 1000,
+  "customers": {
+    "count": 998,
+    "late": 2,
+    "dropped_by_solver": 0
+  },
+  "performance_metrics": {
+    "total_trips_executed": 27,
+    "average_trips_per_driver": 2.1,
+    "average_deliveries_per_driver": 6.48,
+    "silhouette_score": 0.6055011230444496
+  }
+}

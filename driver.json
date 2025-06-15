@@ -1,0 +1,1753 @@
+[
+  {
+    "driver_id": 0,
+    "zone_id": 0,
+    "total_deliveries": 7,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "10:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_462",
+            "latitude": 31.667077660199762,
+            "longitude": 35.16732454009966,
+            "delivery_time": "11:00",
+            "time_window": "11:00\u201312:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_675",
+            "latitude": 31.669985719980026,
+            "longitude": 35.16765161398804,
+            "delivery_time": "12:00",
+            "time_window": "12:00\u201313:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_439",
+            "latitude": 31.66578759039437,
+            "longitude": 35.15904683532677,
+            "delivery_time": "13:00",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_8",
+            "latitude": 31.66307524602574,
+            "longitude": 35.17075372418026,
+            "delivery_time": "14:00",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_114",
+            "latitude": 31.65628650771017,
+            "longitude": 35.167936732316434,
+            "delivery_time": "14:06",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_101",
+            "latitude": 31.653820381663575,
+            "longitude": 35.16361038161216,
+            "delivery_time": "14:11",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 7,
+            "customer_name": "Customer_643",
+            "latitude": 31.65198353504608,
+            "longitude": 35.17439890686721,
+            "delivery_time": "15:00",
+            "time_window": "15:00\u201316:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 1,
+    "zone_id": 0,
+    "total_deliveries": 6,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "10:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_365",
+            "latitude": 31.661334570547016,
+            "longitude": 35.16887183643932,
+            "delivery_time": "12:00",
+            "time_window": "12:00\u201313:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_338",
+            "latitude": 31.66344673555466,
+            "longitude": 35.1716067689614,
+            "delivery_time": "13:00",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_392",
+            "latitude": 31.66125827709088,
+            "longitude": 35.17494084066522,
+            "delivery_time": "15:00",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_562",
+            "latitude": 31.66819528447003,
+            "longitude": 35.185917030527655,
+            "delivery_time": "16:00",
+            "time_window": "16:00\u201317:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_629",
+            "latitude": 31.672010972807165,
+            "longitude": 35.18781354229113,
+            "delivery_time": "18:00",
+            "time_window": "18:00\u201319:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_694",
+            "latitude": 31.662174588755775,
+            "longitude": 35.19232370287254,
+            "delivery_time": "18:07",
+            "time_window": "18:00\u201319:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 2,
+    "zone_id": 0,
+    "total_deliveries": 7,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "11:55",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_587",
+            "latitude": 31.683049307410226,
+            "longitude": 35.170442432853484,
+            "delivery_time": "14:00",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_867",
+            "latitude": 31.68083206253577,
+            "longitude": 35.17497505700943,
+            "delivery_time": "14:05",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_361",
+            "latitude": 31.67769065917053,
+            "longitude": 35.17596899416464,
+            "delivery_time": "14:10",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_843",
+            "latitude": 31.682231615727762,
+            "longitude": 35.177333986684246,
+            "delivery_time": "16:00",
+            "time_window": "16:00\u201317:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_590",
+            "latitude": 31.681623512830758,
+            "longitude": 35.16346649597757,
+            "delivery_time": "17:00",
+            "time_window": "17:00\u201318:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_455",
+            "latitude": 31.666062307683028,
+            "longitude": 35.181271438489176,
+            "delivery_time": "17:09",
+            "time_window": "17:00\u201318:00"
+          },
+          {
+            "stop_order": 7,
+            "customer_name": "Customer_652",
+            "latitude": 31.658833192163975,
+            "longitude": 35.190501127412915,
+            "delivery_time": "17:16",
+            "time_window": "17:00\u201318:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 3,
+    "zone_id": 0,
+    "total_deliveries": 7,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "10:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_570",
+            "latitude": 31.671420036373252,
+            "longitude": 35.179449707143554,
+            "delivery_time": "11:00",
+            "time_window": "11:00\u201312:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_664",
+            "latitude": 31.673467722379588,
+            "longitude": 35.17961956071163,
+            "delivery_time": "12:00",
+            "time_window": "12:00\u201313:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_207",
+            "latitude": 31.674200823406288,
+            "longitude": 35.186986839911185,
+            "delivery_time": "12:06",
+            "time_window": "12:00\u201313:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_19",
+            "latitude": 31.663037752941783,
+            "longitude": 35.1816958668806,
+            "delivery_time": "12:13",
+            "time_window": "12:00\u201313:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_901",
+            "latitude": 31.657321038947995,
+            "longitude": 35.190761187686775,
+            "delivery_time": "13:00",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_386",
+            "latitude": 31.656921511857625,
+            "longitude": 35.17977931432819,
+            "delivery_time": "13:55",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 7,
+            "customer_name": "Customer_780",
+            "latitude": 31.656601514912847,
+            "longitude": 35.17968661421645,
+            "delivery_time": "16:00",
+            "time_window": "16:00\u201317:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 4,
+    "zone_id": 1,
+    "total_deliveries": 6,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "12:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_231",
+            "latitude": 31.577305242324016,
+            "longitude": 35.19349827344825,
+            "delivery_time": "13:00",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_266",
+            "latitude": 31.60708285643363,
+            "longitude": 35.23282724687942,
+            "delivery_time": "13:55",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_375",
+            "latitude": 31.60608758114865,
+            "longitude": 35.23572005991215,
+            "delivery_time": "16:00",
+            "time_window": "16:00\u201317:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_47",
+            "latitude": 31.597847252241603,
+            "longitude": 35.24429420507335,
+            "delivery_time": "17:00",
+            "time_window": "17:00\u201318:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_137",
+            "latitude": 31.60341393525136,
+            "longitude": 35.24385735587564,
+            "delivery_time": "18:00",
+            "time_window": "18:00\u201319:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_532",
+            "latitude": 31.609466270423315,
+            "longitude": 35.24728794575074,
+            "delivery_time": "18:06",
+            "time_window": "18:00\u201319:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 5,
+    "zone_id": 1,
+    "total_deliveries": 7,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "14:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_443",
+            "latitude": 31.57936713708352,
+            "longitude": 35.207529126681656,
+            "delivery_time": "14:08",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_129",
+            "latitude": 31.60148733944333,
+            "longitude": 35.24704699369524,
+            "delivery_time": "14:20",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_226",
+            "latitude": 31.59721305364394,
+            "longitude": 35.25193157141411,
+            "delivery_time": "14:26",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_907",
+            "latitude": 31.59773015239665,
+            "longitude": 35.24856415945124,
+            "delivery_time": "15:00",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_773",
+            "latitude": 31.60248182651535,
+            "longitude": 35.2503948663674,
+            "delivery_time": "16:00",
+            "time_window": "16:00\u201317:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_276",
+            "latitude": 31.609453378592466,
+            "longitude": 35.25633130989601,
+            "delivery_time": "18:00",
+            "time_window": "18:00\u201319:00"
+          },
+          {
+            "stop_order": 7,
+            "customer_name": "Customer_237",
+            "latitude": 31.614675743387473,
+            "longitude": 35.24620848734891,
+            "delivery_time": "18:06",
+            "time_window": "18:00\u201319:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 6,
+    "zone_id": 1,
+    "total_deliveries": 7,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "11:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_723",
+            "latitude": 31.57744092230883,
+            "longitude": 35.186155935260864,
+            "delivery_time": "13:00",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_185",
+            "latitude": 31.56352845898047,
+            "longitude": 35.18483276693618,
+            "delivery_time": "13:07",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_335",
+            "latitude": 31.56798886826628,
+            "longitude": 35.195734343070704,
+            "delivery_time": "15:00",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_845",
+            "latitude": 31.577651849770913,
+            "longitude": 35.198479820809865,
+            "delivery_time": "15:06",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_906",
+            "latitude": 31.581884848416447,
+            "longitude": 35.20081737614902,
+            "delivery_time": "16:00",
+            "time_window": "16:00\u201317:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_941",
+            "latitude": 31.585793511048188,
+            "longitude": 35.199560280554444,
+            "delivery_time": "16:05",
+            "time_window": "16:00\u201317:00"
+          },
+          {
+            "stop_order": 7,
+            "customer_name": "Customer_173",
+            "latitude": 31.583775873884715,
+            "longitude": 35.19838436613067,
+            "delivery_time": "16:10",
+            "time_window": "16:00\u201317:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 7,
+    "zone_id": 1,
+    "total_deliveries": 7,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "10:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_209",
+            "latitude": 31.562520243681412,
+            "longitude": 35.188696003791364,
+            "delivery_time": "12:00",
+            "time_window": "12:00\u201313:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_836",
+            "latitude": 31.55477021836332,
+            "longitude": 35.204189899811546,
+            "delivery_time": "13:00",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_181",
+            "latitude": 31.553314607741687,
+            "longitude": 35.207743359588385,
+            "delivery_time": "14:00",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_18",
+            "latitude": 31.558402484588754,
+            "longitude": 35.19876699983941,
+            "delivery_time": "16:00",
+            "time_window": "16:00\u201317:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_238",
+            "latitude": 31.56850534717579,
+            "longitude": 35.197508179018946,
+            "delivery_time": "16:06",
+            "time_window": "16:00\u201317:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_293",
+            "latitude": 31.57329019879272,
+            "longitude": 35.1965863278192,
+            "delivery_time": "16:11",
+            "time_window": "16:00\u201317:00"
+          },
+          {
+            "stop_order": 7,
+            "customer_name": "Customer_372",
+            "latitude": 31.584348764388608,
+            "longitude": 35.20206484092044,
+            "delivery_time": "17:00",
+            "time_window": "17:00\u201318:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 8,
+    "zone_id": 1,
+    "total_deliveries": 7,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "11:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_377",
+            "latitude": 31.620991135558903,
+            "longitude": 35.23856251154645,
+            "delivery_time": "11:16",
+            "time_window": "11:00\u201312:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_937",
+            "latitude": 31.623361263170345,
+            "longitude": 35.24559773341017,
+            "delivery_time": "12:00",
+            "time_window": "12:00\u201313:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_771",
+            "latitude": 31.621469957923036,
+            "longitude": 35.264796072889226,
+            "delivery_time": "12:08",
+            "time_window": "12:00\u201313:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_98",
+            "latitude": 31.624036128981665,
+            "longitude": 35.25832478617388,
+            "delivery_time": "13:00",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_56",
+            "latitude": 31.62103222162391,
+            "longitude": 35.26192755593122,
+            "delivery_time": "14:00",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_628",
+            "latitude": 31.62403826866611,
+            "longitude": 35.26359349296649,
+            "delivery_time": "15:00",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 7,
+            "customer_name": "Customer_887",
+            "latitude": 31.620103612456045,
+            "longitude": 35.24870545045315,
+            "delivery_time": "16:00",
+            "time_window": "16:00\u201317:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 9,
+    "zone_id": 1,
+    "total_deliveries": 7,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "14:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_853",
+            "latitude": 31.576634221247783,
+            "longitude": 35.188940212439505,
+            "delivery_time": "16:00",
+            "time_window": "16:00\u201317:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_725",
+            "latitude": 31.568639085032295,
+            "longitude": 35.18820975869503,
+            "delivery_time": "17:00",
+            "time_window": "17:00\u201318:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_481",
+            "latitude": 31.565086951894965,
+            "longitude": 35.182374003329514,
+            "delivery_time": "17:06",
+            "time_window": "17:00\u201318:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_143",
+            "latitude": 31.556011471404418,
+            "longitude": 35.176161540411584,
+            "delivery_time": "17:12",
+            "time_window": "17:00\u201318:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_305",
+            "latitude": 31.549385376191317,
+            "longitude": 35.17685582805152,
+            "delivery_time": "17:18",
+            "time_window": "17:00\u201318:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_641",
+            "latitude": 31.547670643209738,
+            "longitude": 35.17785269172857,
+            "delivery_time": "17:23",
+            "time_window": "17:00\u201318:00"
+          },
+          {
+            "stop_order": 7,
+            "customer_name": "Customer_693",
+            "latitude": 31.541782369725414,
+            "longitude": 35.17861756364994,
+            "delivery_time": "18:00",
+            "time_window": "18:00\u201319:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 10,
+    "zone_id": 1,
+    "total_deliveries": 7,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "11:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_334",
+            "latitude": 31.554625238590354,
+            "longitude": 35.17795682042272,
+            "delivery_time": "12:55",
+            "time_window": "12:00\u201313:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_758",
+            "latitude": 31.55687915818572,
+            "longitude": 35.182839740555075,
+            "delivery_time": "15:00",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_918",
+            "latitude": 31.55834184240428,
+            "longitude": 35.188147066919306,
+            "delivery_time": "15:05",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_246",
+            "latitude": 31.553834153335576,
+            "longitude": 35.18910446282937,
+            "delivery_time": "15:10",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_160",
+            "latitude": 31.55194530740476,
+            "longitude": 35.172149471940024,
+            "delivery_time": "15:17",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_980",
+            "latitude": 31.55380562372364,
+            "longitude": 35.16678348022831,
+            "delivery_time": "16:00",
+            "time_window": "16:00\u201317:00"
+          },
+          {
+            "stop_order": 7,
+            "customer_name": "Customer_14",
+            "latitude": 31.561703289751204,
+            "longitude": 35.16988899465208,
+            "delivery_time": "18:00",
+            "time_window": "18:00\u201319:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 11,
+    "zone_id": 1,
+    "total_deliveries": 7,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "10:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_229",
+            "latitude": 31.60850402430368,
+            "longitude": 35.24919077688434,
+            "delivery_time": "11:00",
+            "time_window": "11:00\u201312:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_999",
+            "latitude": 31.6102786392362,
+            "longitude": 35.255747469178566,
+            "delivery_time": "11:54",
+            "time_window": "11:00\u201312:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_915",
+            "latitude": 31.61058691810931,
+            "longitude": 35.262963344733784,
+            "delivery_time": "14:00",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_672",
+            "latitude": 31.614689389567356,
+            "longitude": 35.26065096530019,
+            "delivery_time": "14:05",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_423",
+            "latitude": 31.6121327465906,
+            "longitude": 35.250704208352296,
+            "delivery_time": "15:00",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_885",
+            "latitude": 31.623043622949876,
+            "longitude": 35.23897269516897,
+            "delivery_time": "15:07",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 7,
+            "customer_name": "Customer_796",
+            "latitude": 31.60987234025828,
+            "longitude": 35.23333748251919,
+            "delivery_time": "15:14",
+            "time_window": "15:00\u201316:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 12,
+    "zone_id": 1,
+    "total_deliveries": 7,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "10:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_448",
+            "latitude": 31.554304687627067,
+            "longitude": 35.18631686593783,
+            "delivery_time": "10:06",
+            "time_window": "10:00\u201311:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_553",
+            "latitude": 31.546191568033606,
+            "longitude": 35.18214565879909,
+            "delivery_time": "10:12",
+            "time_window": "10:00\u201311:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_661",
+            "latitude": 31.545308677070235,
+            "longitude": 35.18872604416696,
+            "delivery_time": "11:00",
+            "time_window": "11:00\u201312:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_220",
+            "latitude": 31.543903023178594,
+            "longitude": 35.20042840255689,
+            "delivery_time": "12:00",
+            "time_window": "12:00\u201313:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_418",
+            "latitude": 31.541959809931623,
+            "longitude": 35.18361350288119,
+            "delivery_time": "13:00",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_70",
+            "latitude": 31.552327259074033,
+            "longitude": 35.18053449502762,
+            "delivery_time": "15:00",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 7,
+            "customer_name": "Customer_817",
+            "latitude": 31.5564377547926,
+            "longitude": 35.17897043127089,
+            "delivery_time": "16:00",
+            "time_window": "16:00\u201317:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 13,
+    "zone_id": 1,
+    "total_deliveries": 7,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "10:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_807",
+            "latitude": 31.5513505998739,
+            "longitude": 35.203319518671414,
+            "delivery_time": "11:00",
+            "time_window": "11:00\u201312:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_190",
+            "latitude": 31.552072649042973,
+            "longitude": 35.21007475493992,
+            "delivery_time": "12:00",
+            "time_window": "12:00\u201313:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_745",
+            "latitude": 31.556091081900043,
+            "longitude": 35.210411778310906,
+            "delivery_time": "13:00",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_491",
+            "latitude": 31.560139364276814,
+            "longitude": 35.208153082576345,
+            "delivery_time": "14:00",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_839",
+            "latitude": 31.561920198292473,
+            "longitude": 35.2060469038966,
+            "delivery_time": "15:00",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_412",
+            "latitude": 31.559262501314556,
+            "longitude": 35.207200328158464,
+            "delivery_time": "16:00",
+            "time_window": "16:00\u201317:00"
+          },
+          {
+            "stop_order": 7,
+            "customer_name": "Customer_357",
+            "latitude": 31.558542800272622,
+            "longitude": 35.207094492611546,
+            "delivery_time": "18:00",
+            "time_window": "18:00\u201319:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 14,
+    "zone_id": 2,
+    "total_deliveries": 7,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "11:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_657",
+            "latitude": 31.546751268234928,
+            "longitude": 35.07940757574825,
+            "delivery_time": "11:52",
+            "time_window": "11:00\u201312:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_301",
+            "latitude": 31.52805434398144,
+            "longitude": 35.070860413291946,
+            "delivery_time": "14:00",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_566",
+            "latitude": 31.53307156853323,
+            "longitude": 35.08044687526892,
+            "delivery_time": "16:00",
+            "time_window": "16:00\u201317:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_698",
+            "latitude": 31.534666698162653,
+            "longitude": 35.07786032387872,
+            "delivery_time": "16:05",
+            "time_window": "16:00\u201317:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_719",
+            "latitude": 31.537626288491044,
+            "longitude": 35.074215919574904,
+            "delivery_time": "17:00",
+            "time_window": "17:00\u201318:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_966",
+            "latitude": 31.54075980766152,
+            "longitude": 35.073702813968886,
+            "delivery_time": "17:05",
+            "time_window": "17:00\u201318:00"
+          },
+          {
+            "stop_order": 7,
+            "customer_name": "Customer_428",
+            "latitude": 31.555962867828732,
+            "longitude": 35.0772068296184,
+            "delivery_time": "18:00",
+            "time_window": "18:00\u201319:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 15,
+    "zone_id": 2,
+    "total_deliveries": 2,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "14:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_398",
+            "latitude": 31.577223998001866,
+            "longitude": 35.126418655541066,
+            "delivery_time": "15:00",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_893",
+            "latitude": 31.585195509397018,
+            "longitude": 35.13759058015307,
+            "delivery_time": "16:00",
+            "time_window": "16:00\u201317:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 16,
+    "zone_id": 2,
+    "total_deliveries": 6,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "12:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_897",
+            "latitude": 31.568693903513047,
+            "longitude": 35.138461699988525,
+            "delivery_time": "12:06",
+            "time_window": "12:00\u201313:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_821",
+            "latitude": 31.568649872686446,
+            "longitude": 35.13545489406677,
+            "delivery_time": "14:00",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_184",
+            "latitude": 31.563482731920626,
+            "longitude": 35.13960736849721,
+            "delivery_time": "15:00",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_2",
+            "latitude": 31.56824341153181,
+            "longitude": 35.133607772050894,
+            "delivery_time": "16:00",
+            "time_window": "16:00\u201317:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_908",
+            "latitude": 31.567950720202745,
+            "longitude": 35.13846086430927,
+            "delivery_time": "17:00",
+            "time_window": "17:00\u201318:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_320",
+            "latitude": 31.57333536521604,
+            "longitude": 35.14467037665855,
+            "delivery_time": "18:00",
+            "time_window": "18:00\u201319:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 17,
+    "zone_id": 2,
+    "total_deliveries": 7,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "10:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_232",
+            "latitude": 31.540354321480084,
+            "longitude": 35.08208414277,
+            "delivery_time": "11:00",
+            "time_window": "11:00\u201312:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_789",
+            "latitude": 31.53572730221663,
+            "longitude": 35.08412133905412,
+            "delivery_time": "12:00",
+            "time_window": "12:00\u201313:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_681",
+            "latitude": 31.533575178502478,
+            "longitude": 35.07691275099857,
+            "delivery_time": "13:00",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_417",
+            "latitude": 31.531474978724187,
+            "longitude": 35.087809743021424,
+            "delivery_time": "15:00",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_778",
+            "latitude": 31.533398231082188,
+            "longitude": 35.080405208197945,
+            "delivery_time": "17:00",
+            "time_window": "17:00\u201318:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_118",
+            "latitude": 31.521933366986065,
+            "longitude": 35.07277812986614,
+            "delivery_time": "17:07",
+            "time_window": "17:00\u201318:00"
+          },
+          {
+            "stop_order": 7,
+            "customer_name": "Customer_144",
+            "latitude": 31.526048672750786,
+            "longitude": 35.086742200553736,
+            "delivery_time": "18:00",
+            "time_window": "18:00\u201319:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 18,
+    "zone_id": 2,
+    "total_deliveries": 6,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "12:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_513",
+            "latitude": 31.56242206708594,
+            "longitude": 35.12084744876525,
+            "delivery_time": "12:09",
+            "time_window": "12:00\u201313:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_268",
+            "latitude": 31.572696929503497,
+            "longitude": 35.11962856180036,
+            "delivery_time": "13:00",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_565",
+            "latitude": 31.564797425544246,
+            "longitude": 35.12774350949353,
+            "delivery_time": "13:06",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_932",
+            "latitude": 31.562105518666613,
+            "longitude": 35.12735047614657,
+            "delivery_time": "15:00",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_200",
+            "latitude": 31.565418582892296,
+            "longitude": 35.12589914651233,
+            "delivery_time": "17:00",
+            "time_window": "17:00\u201318:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_287",
+            "latitude": 31.57324494487297,
+            "longitude": 35.1309230917167,
+            "delivery_time": "18:00",
+            "time_window": "18:00\u201319:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 19,
+    "zone_id": 2,
+    "total_deliveries": 7,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "10:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_473",
+            "latitude": 31.536705345199493,
+            "longitude": 35.06996653813563,
+            "delivery_time": "11:00",
+            "time_window": "11:00\u201312:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_289",
+            "latitude": 31.536930512212656,
+            "longitude": 35.06818221787738,
+            "delivery_time": "13:00",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_69",
+            "latitude": 31.53904351717204,
+            "longitude": 35.066112140471944,
+            "delivery_time": "14:00",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_625",
+            "latitude": 31.544551426325533,
+            "longitude": 35.07049080119667,
+            "delivery_time": "14:06",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_541",
+            "latitude": 31.553747273571236,
+            "longitude": 35.07239099620359,
+            "delivery_time": "14:12",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_460",
+            "latitude": 31.558510609840884,
+            "longitude": 35.07110270518081,
+            "delivery_time": "16:00",
+            "time_window": "16:00\u201317:00"
+          },
+          {
+            "stop_order": 7,
+            "customer_name": "Customer_770",
+            "latitude": 31.580435387822774,
+            "longitude": 35.118679030502825,
+            "delivery_time": "16:13",
+            "time_window": "16:00\u201317:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 20,
+    "zone_id": 2,
+    "total_deliveries": 7,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "12:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_596",
+            "latitude": 31.555951218017135,
+            "longitude": 35.08822395488789,
+            "delivery_time": "13:00",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_356",
+            "latitude": 31.5453686164354,
+            "longitude": 35.08061302436208,
+            "delivery_time": "13:07",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_801",
+            "latitude": 31.54053286872299,
+            "longitude": 35.06512365655557,
+            "delivery_time": "15:00",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_851",
+            "latitude": 31.539817710571562,
+            "longitude": 35.06736460481053,
+            "delivery_time": "15:05",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_995",
+            "latitude": 31.55060300907039,
+            "longitude": 35.07940503548816,
+            "delivery_time": "15:12",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_838",
+            "latitude": 31.550134319619037,
+            "longitude": 35.089750193869826,
+            "delivery_time": "16:00",
+            "time_window": "16:00\u201317:00"
+          },
+          {
+            "stop_order": 7,
+            "customer_name": "Customer_292",
+            "latitude": 31.581374682543583,
+            "longitude": 35.11901948378928,
+            "delivery_time": "17:00",
+            "time_window": "17:00\u201318:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 21,
+    "zone_id": 3,
+    "total_deliveries": 6,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "10:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_28",
+            "latitude": 31.68505761924394,
+            "longitude": 35.095388331701194,
+            "delivery_time": "10:55",
+            "time_window": "10:00\u201311:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_280",
+            "latitude": 31.68155206297503,
+            "longitude": 35.09720733987011,
+            "delivery_time": "13:00",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_900",
+            "latitude": 31.68855000117039,
+            "longitude": 35.09878525234625,
+            "delivery_time": "13:06",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_965",
+            "latitude": 31.691157014182664,
+            "longitude": 35.09665448456522,
+            "delivery_time": "15:00",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_984",
+            "latitude": 31.679972117862146,
+            "longitude": 35.09781090691096,
+            "delivery_time": "15:07",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_519",
+            "latitude": 31.68533876662936,
+            "longitude": 35.09374229561047,
+            "delivery_time": "17:00",
+            "time_window": "17:00\u201318:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 22,
+    "zone_id": 3,
+    "total_deliveries": 7,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "11:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_551",
+            "latitude": 31.65445076886602,
+            "longitude": 35.091248386530495,
+            "delivery_time": "11:07",
+            "time_window": "11:00\u201312:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_798",
+            "latitude": 31.660738516528053,
+            "longitude": 35.094277969424525,
+            "delivery_time": "11:13",
+            "time_window": "11:00\u201312:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_509",
+            "latitude": 31.657463187227826,
+            "longitude": 35.10238921522444,
+            "delivery_time": "12:54",
+            "time_window": "12:00\u201313:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_787",
+            "latitude": 31.65832209469301,
+            "longitude": 35.09534942065248,
+            "delivery_time": "15:00",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_582",
+            "latitude": 31.66500573076622,
+            "longitude": 35.0954973902284,
+            "delivery_time": "15:06",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_592",
+            "latitude": 31.662777525586215,
+            "longitude": 35.093557709427685,
+            "delivery_time": "16:00",
+            "time_window": "16:00\u201317:00"
+          },
+          {
+            "stop_order": 7,
+            "customer_name": "Customer_506",
+            "latitude": 31.657515560501484,
+            "longitude": 35.09690385983162,
+            "delivery_time": "17:00",
+            "time_window": "17:00\u201318:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 23,
+    "zone_id": 3,
+    "total_deliveries": 6,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "10:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_820",
+            "latitude": 31.653826809933335,
+            "longitude": 35.088828264907875,
+            "delivery_time": "10:06",
+            "time_window": "10:00\u201311:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_701",
+            "latitude": 31.659154451137795,
+            "longitude": 35.087939634092514,
+            "delivery_time": "11:00",
+            "time_window": "11:00\u201312:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_250",
+            "latitude": 31.661054402826778,
+            "longitude": 35.08092163453408,
+            "delivery_time": "12:00",
+            "time_window": "12:00\u201313:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_282",
+            "latitude": 31.657315206189946,
+            "longitude": 35.085119991900456,
+            "delivery_time": "14:00",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_419",
+            "latitude": 31.65087520290983,
+            "longitude": 35.09374942696354,
+            "delivery_time": "14:06",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_911",
+            "latitude": 31.644572828190206,
+            "longitude": 35.09723902384274,
+            "delivery_time": "15:00",
+            "time_window": "15:00\u201316:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 24,
+    "zone_id": 3,
+    "total_deliveries": 6,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "11:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_431",
+            "latitude": 31.64320083470255,
+            "longitude": 35.08686422238994,
+            "delivery_time": "12:00",
+            "time_window": "12:00\u201313:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_761",
+            "latitude": 31.640352292226915,
+            "longitude": 35.087338764432,
+            "delivery_time": "13:00",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_877",
+            "latitude": 31.64751612772182,
+            "longitude": 35.07971542709956,
+            "delivery_time": "13:06",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_456",
+            "latitude": 31.64568982399011,
+            "longitude": 35.08157207410641,
+            "delivery_time": "14:00",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_202",
+            "latitude": 31.645893905309045,
+            "longitude": 35.08477526233086,
+            "delivery_time": "16:00",
+            "time_window": "16:00\u201317:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_406",
+            "latitude": 31.649406659013206,
+            "longitude": 35.078414318483844,
+            "delivery_time": "17:00",
+            "time_window": "17:00\u201318:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 25,
+    "zone_id": 3,
+    "total_deliveries": 7,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "10:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_994",
+            "latitude": 31.69633038708662,
+            "longitude": 35.11079760007288,
+            "delivery_time": "10:54",
+            "time_window": "10:00\u201311:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_248",
+            "latitude": 31.693581915892057,
+            "longitude": 35.102127624072075,
+            "delivery_time": "13:00",
+            "time_window": "13:00\u201314:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_288",
+            "latitude": 31.69693974985784,
+            "longitude": 35.1005499070685,
+            "delivery_time": "14:00",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_437",
+            "latitude": 31.697714598469382,
+            "longitude": 35.11687066583823,
+            "delivery_time": "15:00",
+            "time_window": "15:00\u201316:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_571",
+            "latitude": 31.697230852724037,
+            "longitude": 35.11634109688124,
+            "delivery_time": "17:00",
+            "time_window": "17:00\u201318:00"
+          },
+          {
+            "stop_order": 6,
+            "customer_name": "Customer_409",
+            "latitude": 31.68368300742147,
+            "longitude": 35.11558909227852,
+            "delivery_time": "18:00",
+            "time_window": "18:00\u201319:00"
+          },
+          {
+            "stop_order": 7,
+            "customer_name": "Customer_631",
+            "latitude": 31.67651243455449,
+            "longitude": 35.118535049630346,
+            "delivery_time": "18:06",
+            "time_window": "18:00\u201319:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "driver_id": 26,
+    "zone_id": 3,
+    "total_deliveries": 5,
+    "trips": [
+      {
+        "trip_number": 2,
+        "depot_departure_time": "11:00",
+        "stops": [
+          {
+            "stop_order": 1,
+            "customer_name": "Customer_591",
+            "latitude": 31.682137618028978,
+            "longitude": 35.108284376847735,
+            "delivery_time": "12:00",
+            "time_window": "12:00\u201313:00"
+          },
+          {
+            "stop_order": 2,
+            "customer_name": "Customer_626",
+            "latitude": 31.68589209409431,
+            "longitude": 35.11426617977879,
+            "delivery_time": "12:06",
+            "time_window": "12:00\u201313:00"
+          },
+          {
+            "stop_order": 3,
+            "customer_name": "Customer_785",
+            "latitude": 31.68698726015256,
+            "longitude": 35.108432939229026,
+            "delivery_time": "14:00",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 4,
+            "customer_name": "Customer_622",
+            "latitude": 31.6845611037148,
+            "longitude": 35.11539743578014,
+            "delivery_time": "14:55",
+            "time_window": "14:00\u201315:00"
+          },
+          {
+            "stop_order": 5,
+            "customer_name": "Customer_774",
+            "latitude": 31.68045294190599,
+            "longitude": 35.113048099208946,
+            "delivery_time": "17:00",
+            "time_window": "17:00\u201318:00"
+          }
+        ]
+      }
+    ]
+  }
+]
